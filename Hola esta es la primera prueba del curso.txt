@@ -1,1 +1,1 @@
-Hola esta es la primera prueba del curso de GIt.
+Hola esta es la primera prueba del curso de Git.
