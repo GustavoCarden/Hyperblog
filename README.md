@@ -5,5 +5,5 @@ Un blog increible
 > -Gustavo
 
 En este curso conoceremos lo siguiente:
-*Git
-*GitHub
+* Git
+* GitHub
